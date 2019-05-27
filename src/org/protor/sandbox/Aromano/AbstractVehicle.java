@@ -4,9 +4,9 @@ import java.io.File;
 
 public abstract class AbstractVehicle {
 
-	private String name = "";
+	protected String name = "";
 
-	private EnumEngineType engineType= EnumEngineType.NONE; 
+	protected EnumEngineType engineType= EnumEngineType.NONE; 
 	private double range=0.0; // km
 	private double endurance = 0.0; // hours
 	private int numMaxPassengers= 0;

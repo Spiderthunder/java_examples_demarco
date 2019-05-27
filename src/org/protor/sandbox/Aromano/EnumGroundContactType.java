@@ -5,4 +5,3 @@ public enum EnumGroundContactType {
 	TRACKS,
 	RAIL
 }
-

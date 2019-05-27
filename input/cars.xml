@@ -5,11 +5,37 @@
 			Put some text here
 		</description>
 		<name>Nissan XTrail</name>
-		<engine_type value="THERMICAL"/>
-		<number_of_wheels value="4">
-		<range_km value="500"/>
-		<endurance_hr value="5.0"/>
-		<passengers value="4"/>
-		<payload_kg value="250.0"/>
+		<engine_type value="THERMICAL" />
+		<number_of_wheels value="4" />
+		<range_km value="500" />
+		<endurance_hr value="5.0" />
+		<passengers value="4" />
+		<payload_kg value="250.0" />
+	</car>
+
+	<car id="CAR-002">
+		<description>
+			Put some text here
+		</description>
+		<name>Chevrolet Spark</name>
+		<engine_type value="THERMICAL" />
+		<number_of_wheels value="4" />
+		<range_km value="500" />
+		<endurance_hr value="5.0" />
+		<passengers value="4" />
+		</car>
+	<car id="CAR-003">
+		<description>
+			Put some text here
+		</description>
+		<name>Fiat Panda</name>
+		<engine_type value="ELECTRIC" />
+		<number_of_wheels value="4" />
+		<range_km value="500" />
+		<endurance_hr value="5.0" />
+		<passengers value="4" />
+		<payload_kg value="250.0" />
+
+
 	</car>
 </cars>
