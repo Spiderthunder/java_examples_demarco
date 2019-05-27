@@ -1,7 +1,8 @@
 package org.protor.sandbox.Aromano;
 
-public enum MyVehicleType {
-	AERIAL,
-	TERRESTRIAL,
-	MARINE
+public enum EnumGroundContactType {
+	WHEELS,
+	TRACKS,
+	RAIL
 }
+
